@@ -1,0 +1,25 @@
+.csheader {
+	margin-bottom: 50px
+}
+.tongtien {
+	text-align: right;
+	font-size: 25px;
+	color: #FE980F;
+}
+.can-phai {
+	text-align: right;
+}
+.thanhtoan, .huy {
+	background: #FE980F;
+	border-radius: 0;
+	color: #FFFFFF;
+	margin-top: 18px;
+	border: none;
+	padding: 10px 20px;
+}
+.huy{
+    margin-right: 0px;
+}
+.thanhtoan {
+  	margin-right: 20px
+}
